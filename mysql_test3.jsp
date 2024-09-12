@@ -79,7 +79,7 @@
 
   
 <h2>Enter New Data</h2>
-<form action="mysql_test2.jsp" method="post">
+<form action="mysql_test3.jsp" method="post">
     <label for="idInput">ID:</label>
     <input type="text" id="idInput" name="idInput" required><br>
 
